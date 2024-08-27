@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project_-Movies-Store_Using-ASP.NET-main\\Project_-Movies-Store_Using-ASP.NET-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE65E3-B21D-4EAA-9B66-3EAB94CD903E}|full Project.csproj|e:\\project_-movies-store_using-asp.net-main\\project_-movies-store_using-asp.net-main\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE65E3-B21D-4EAA-9B66-3EAB94CD903E}|full Project.csproj|solutionrelative:controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE65E3-B21D-4EAA-9B66-3EAB94CD903E}|full Project.csproj|e:\\project_-movies-store_using-asp.net-main\\project_-movies-store_using-asp.net-main\\views\\genre\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCAE65E3-B21D-4EAA-9B66-3EAB94CD903E}|full Project.csproj|solutionrelative:views\\genre\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAE65E3-B21D-4EAA-9B66-3EAB94CD903E}|full Project.csproj|e:\\project_-movies-store_using-asp.net-main\\project_-movies-store_using-asp.net-main\\repositories\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAE65E3-B21D-4EAA-9B66-3EAB94CD903E}|full Project.csproj|solutionrelative:repositories\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAuthenticationController.cs",
+              "DocumentMoniker": "E:\\Project_-Movies-Store_Using-ASP.NET-main\\Project_-Movies-Store_Using-ASP.NET-main\\Controllers\\UserAuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAuthenticationController.cs",
+              "ToolTip": "E:\\Project_-Movies-Store_Using-ASP.NET-main\\Project_-Movies-Store_Using-ASP.NET-main\\Controllers\\UserAuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\UserAuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:17:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "E:\\Project_-Movies-Store_Using-ASP.NET-main\\Project_-Movies-Store_Using-ASP.NET-main\\Views\\Genre\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genre\\Add.cshtml",
+              "ToolTip": "E:\\Project_-Movies-Store_Using-ASP.NET-main\\Project_-Movies-Store_Using-ASP.NET-main\\Views\\Genre\\Add.cshtml",
+              "RelativeToolTip": "Views\\Genre\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T16:48:23.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "E:\\Project_-Movies-Store_Using-ASP.NET-main\\Project_-Movies-Store_Using-ASP.NET-main\\Repositories\\Implementation\\MovieService.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\MovieService.cs",
+              "ToolTip": "E:\\Project_-Movies-Store_Using-ASP.NET-main\\Project_-Movies-Store_Using-ASP.NET-main\\Repositories\\Implementation\\MovieService.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\MovieService.cs",
+              "ViewState": "AQIAAEEAAAAAZmZmZmYqwFEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:46:08.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
